@@ -1,0 +1,116 @@
+# 1- Headings
+
+HOW TO GIVE HEADINGS IN MARKDOWN FILE
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+This is a normal text in markdown
+
+
+# 2- Block of Words
+> This a block of special text
+
+
+>Second line
+
+# 3- Line Breakdss
+This is a 40 Days long course Data Science with python AKA Chilla of python.\
+This is second line
+
+
+# 4- Combine two things
+Block of words and headings
+> ## Heading 2
+
+# 5- Face of Text
+**Bold**
+
+*italic*
+
+***Bold and italic***
+
+Or you can use these symbols
+
+>Write in comments abount Bold and italic with underscore
+
+# 6_ Bullet points/Lists
+- Day1
+- Day2
+- Day 3
+- Day 4
+- Day 5
+    - Day 5a
+    - Day 5b
+- Day 6
+- Day 7
+> **using** _bold_  ***Bold & italic***
+
+
+# 8- Links and Hyperlinks
+
+https://www.useblackbox.io/pricing?ref=onboarding
+
+[The playlist of python is here](https://www.useblackbox.io/pricing?ref=onboarding)
+
+[codanics]: https://www.useblackbox.io/pricing?ref=onboarding
+
+This whole course is [here][codanics]
+
+# 9-Images and Figures with link
+To join this course please scan the following QR code and join telegram group:
+[Qr](sohailonmission_nametag.png)
+
+>How to comment out a markdown line?
+! --- (Coments)
+
+# Online Picture
+![Codanics](https://www.google.com/search?q=coding&rlz=1C1CHBD_enPK922PK922&sxsrf=APwXEdfg3R088hYdRNkZDik1zhwf92zzuw:1685679916753&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiynZKF36P_AhWYVqQEHS0CCncQ_AUoAXoECAEQAw#imgrc=ttEC4bUW6djp_M)
+
+# 10- Adding Code or code block
+To print a string use `print("Codanics")`
+
+
+`print("Hello babag")`
+>This code with show color according to R language syntax
+
+```R
+x=5+6
+y=3-2
+z=x+y
+print(z)
+```
+
+
+# 11- adding table
+
+| Syntax      | Description |
+| :-----------: | :-----------: |
+| Header      | Title       |
+| Paragraph   | Text        |
+| new         | try         |
+
+
+#12- content
+
+[1- Headings](#1--headings)\
+[2- Block of workds](#2--block-of-words)\
+[3- line breaks](#3--line-breakdss)\
+[4- combine two things](#4--combine-two-things)\
+[5- Face of text](#5--face-of-text)\
+[6- bullet points list](#6_-bullet-pointslists)
+
+
+
+
+# 13- Install extentions
+
+![image](sohailonmission_nametag.png)
+
+Column A | Column B | Column C
+---------|----------|---------
+ A1 | B1 | C1
+ A2 | B2 | C2
+ A3 | B3 | C3
